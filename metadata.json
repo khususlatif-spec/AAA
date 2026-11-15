@@ -1,0 +1,6 @@
+{
+  "name": "Auto Battle Fantasy Arena",
+  "description": "Action auto-battler arena survival game with unique heroes, clones, stance switching, void lasers, procedural combat synth audio, and endless wave survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
